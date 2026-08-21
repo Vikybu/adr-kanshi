@@ -2,7 +2,7 @@ domaine : base de donnée
 
 statut validité : 21/08/2026
 
-choisir-base-de-donnée.md
+choisir-base-de-donnee.md
 
 Contexte
 Pour le projet, il y a besoin d’une base de donnée qui puisse gérer facilement les relations complexes qu’il y a avoir entre les différentes tables.
